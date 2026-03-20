@@ -1,2 +1,3 @@
-# advanced-web-app-mdyd
-Automated issue comment bot repository
+# Advanced Web App Mdyd
+
+Automated issue comment bot repository.
